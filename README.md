@@ -21,7 +21,7 @@
   Change Min EV100 and Max EV100 to 1.0<br>
   Change Amount and Max in Motion Blur to 0.0<br><br>
   Update the axis mappings to reflect this screenshot<br>
-  ![image](https://github.com/DoddMR/Unreal-Engine-Multi-Screen-Camera-Rig/assets/144355506/6c4e6340-d265-4547-9b8c-5796a50afbc1)
+  ![AxisMappingScreenshot](https://github.com/DoddMR/Unreal-Engine-Multi-Screen-Camera-Rig/assets/144355506/6c4e6340-d265-4547-9b8c-5796a50afbc1)
 
 
 </P>
