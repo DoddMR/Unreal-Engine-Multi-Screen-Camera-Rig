@@ -14,5 +14,11 @@
 </p>
 <h3>UE Environment Changes</h3> 
 <P>
+  Go to engine - Rendering - Shadows and change Shadow map methods to "Shadow maps"<br><br>
+  Go to engine - Rendering - Default Settings and change Anti-Aliasing method to "Fast Approximate Anti-Aliasing (FXAA)"<br><br>
+  Create a post processing volume<br>
+  Change Infinite Extent(Unbound) to True
+  Change Min EV100 and Max EV100 to 1.0
+  Change Amount and Max in Motion Blur to 0.0
   
 </P>
