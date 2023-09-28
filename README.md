@@ -17,8 +17,11 @@
   Go to engine - Rendering - Shadows and change Shadow map methods to "Shadow maps"<br><br>
   Go to engine - Rendering - Default Settings and change Anti-Aliasing method to "Fast Approximate Anti-Aliasing (FXAA)"<br><br>
   Create a post processing volume<br>
-  Change Infinite Extent(Unbound) to True
-  Change Min EV100 and Max EV100 to 1.0
-  Change Amount and Max in Motion Blur to 0.0
-  
+  Change Infinite Extent(Unbound) to True<br>
+  Change Min EV100 and Max EV100 to 1.0<br>
+  Change Amount and Max in Motion Blur to 0.0<br><br>
+  Update the axis mappings to reflect this screenshot<br>
+  ![image](https://github.com/DoddMR/Unreal-Engine-Multi-Screen-Camera-Rig/assets/144355506/6c4e6340-d265-4547-9b8c-5796a50afbc1)
+
+
 </P>
