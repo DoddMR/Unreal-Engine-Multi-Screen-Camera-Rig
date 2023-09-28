@@ -2,6 +2,9 @@
 <h3>Description</h3> 
 <p>
   This UE plugin allows an UE application to work across 3 screens<br>
+  It works by using 3 Scene Capture Component 2D which streams to a unique render target<br>
+  Each render Target is then applied to a material which is then applied on to a plane static mesh<br>
+  The main camera is positioned to look at the 3 panels and streams at 5760*1080<br>
 </p>
 <h3>How to install and use</h3>
 
